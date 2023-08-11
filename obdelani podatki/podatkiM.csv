@@ -1,4 +1,4 @@
-ime drzave,visina moskih,teza moskih,bmi moskih
+ime države,višina moških,teža moških,itm moških
 Netherlands,1.84,87.9,26.1
 Montenegro,1.83,90.4,27.0
 Estonia,1.82,89.9,27.0
@@ -58,6 +58,7 @@ Iran,1.75,77.3,25.3
 Tonga,1.75,93.7,30.7
 China,1.75,73.5,24.1
 Kazakhstan,1.74,80.0,26.3
+Kuwait,1.74,88.1,29.0
 Hong Kong,1.74,74.4,24.5
 Argentina,1.74,84.7,27.9
 Italy,1.74,80.9,26.7
@@ -75,7 +76,6 @@ Singapore,1.73,72.8,24.3
 Iraq,1.73,83.2,27.8
 Mauritius,1.73,73.6,24.6
 Egypt,1.73,83.1,27.8
-Venezuela,1.73,79.8,26.7
 Chile,1.73,82.8,27.8
 Qatar,1.73,85.7,28.8
 Haiti,1.72,78.0,26.4
