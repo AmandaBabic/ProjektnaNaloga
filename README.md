@@ -11,7 +11,7 @@ Podatke sem nato uredila v .csv datoteke, jih obdelala v Jupyter-u s knjižnico 
 - *podatkiZ.csv*: Podatki o višini žensk, teži žensk in ITM vrednosti žensk glede na države
 - *dodatno.csv*: Podatki o klasifikaciji vrednosti ITM in ITM prime
 
-Potek branja analiz poteka v naslednjem vrstnem redu: 
+Potek analiz poteka v naslednjem vrstnem redu: 
 - AnaliziranjePodatkov_visina
 - AnaliziranjePodatkov_teza
 - AnaliziranjePodatkov_ITM
