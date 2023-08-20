@@ -19,4 +19,4 @@ Potek analiz poteka v naslednjem vrstnem redu:
 
 
 ## Navodila za uporabo
-Tako za zajem podatkov kot za analizo sem uporabljala jupyter notebooks, prav so mi prišli tudi razni paketi. Pri obdelavi podatkov sem se oprla na *csv*, *os*, *requests* in *re*, pri analizi pa *pandas*, *os*, *matplotlib*, *numpy* and *matplotlib.pyplot*.
+Tako za zajem podatkov kot za analizo sem uporabljala jupyter notebooks, prav so mi prišli tudi razni paketi. Pri obdelavi podatkov sem se oprla na *csv*, *os*, *requests* in *re*, pri analizi pa *pandas*, *os*, *matplotlib*, *numpy* in *matplotlib.pyplot*.
